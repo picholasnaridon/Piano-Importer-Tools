@@ -1,0 +1,4 @@
+CALL: {"url":"https://sandbox.tinypass.com/api/v3/publisher/user/update?api_token=M4dHuUZI4tEhJZ5n7MWT5zErpkRzz8ki0nDgvUiQ&aid=oiGmjC8JwK&uid=12358","method":"POST","json":{"fsdjkafd":"test"}} 
+ ERROR: Field with name fsdjkafd does not exist + 
+CALL: {"url":"https://sandbox.tinypass.com/api/v3/publisher/user/update?api_token=M4dHuUZI4tEhJZ5n7MWT5zErpkRzz8ki0nDgvUiQ&aid=oiGmjC8JwK&uid=12351","method":"POST","json":{"fsdjkafd":"test"}} 
+ ERROR: Field with name fsdjkafd does not exist + 

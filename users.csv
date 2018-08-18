@@ -1,0 +1,5 @@
+user_id,email,firstName,lastName,password
+new1,new1@mail.com,Bob,Smith,:UNKNOWN:::0
+new2,new2@mail.com,John,Smith,:UNKNOWN:::0
+new4,new3@mail.com,Sally,Smith,:UNKNOWN:::0
+new3,new4@mail.com,Mark,Smith,:UNKNOWN:::0
