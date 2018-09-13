@@ -1,4 +1,2442 @@
-CALL: {"url":"https://sandbox.tinypass.com/api/v3/publisher/user/update?api_token=M4dHuUZI4tEhJZ5n7MWT5zErpkRzz8ki0nDgvUiQ&aid=oiGmjC8JwK&uid=12358","method":"POST","json":{"fsdjkafd":"test"}} 
- ERROR: Field with name fsdjkafd does not exist + 
-CALL: {"url":"https://sandbox.tinypass.com/api/v3/publisher/user/update?api_token=M4dHuUZI4tEhJZ5n7MWT5zErpkRzz8ki0nDgvUiQ&aid=oiGmjC8JwK&uid=12351","method":"POST","json":{"fsdjkafd":"test"}} 
- ERROR: Field with name fsdjkafd does not exist + 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Internal server error POST method: /api/v3/publisher/user/update 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Last Name is empty 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid uid 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Choose how you would like your newsletter delivered: Please select one of the values 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
+CALL: 
+ ERROR: Invalid option value for list (duplicate, or non-existing?) 
+CALL: 
+ ERROR: undefined 
